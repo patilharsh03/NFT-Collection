@@ -1,3 +1,5 @@
+
+
 .main {
   min-height: 90vh;
   display: flex;
@@ -5,6 +7,8 @@
   justify-content: center;
   align-items: center;
   font-family: 'Courier New', Courier, monospace;
+  background-color: hsla(0, 0%, 0%, 0.692);
+  color: whitesmoke;
 }
 
 .footer {
@@ -13,6 +17,8 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  background-color: black;
+  color: whitesmoke;
 }
 
 .image {
